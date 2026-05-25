@@ -1,6 +1,8 @@
 --------------------------------------------------------------------------------
 # BrainSFLTA: The Human Brain Specific Full-Length Transcriptome Atlas
 
+<img width="2752" height="1536" alt="Brain_Transcriptome_Atlas_Research_Overview" src="https://github.com/user-attachments/assets/b1e6b3a4-9595-4149-b885-9b1b35204592" />
+
 ## Overview
 Transcript isoforms serve as more fundamental functional units than entire genes, yet incomplete transcriptome annotations have long obscured our understanding of isoform-level genetic regulation in the human brain. 
 
