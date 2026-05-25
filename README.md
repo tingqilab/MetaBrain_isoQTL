@@ -1,5 +1,5 @@
 --------------------------------------------------------------------------------
-# BrainSFLTA: The Human Brain Full-Length Transcriptome Atlas
+# BrainSFLTA: The Human Brain Specific Full-Length Transcriptome Atlas
 
 ## Overview
 Transcript isoforms serve as more fundamental functional units than entire genes, yet incomplete transcriptome annotations have long obscured our understanding of isoform-level genetic regulation in the human brain. 
